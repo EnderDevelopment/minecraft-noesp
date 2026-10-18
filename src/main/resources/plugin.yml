@@ -1,0 +1,6 @@
+name: AntiFreecam
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: Hides everything below y=0 for players above y=16
+api-version: "1.21"
